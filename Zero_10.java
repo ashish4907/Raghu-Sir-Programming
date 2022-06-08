@@ -1,14 +1,14 @@
 import java.util.Scanner;
-class evenOdd{
+class Zero_10{
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the integer value");
     int a = sc.nextInt();
-    if(a%2==0){
-        System.out.println("The number is even");
+    if(a==0){
+        System.out.println("The number is zero");
     }
     else{
-        System.out.println("The number is odd");
+        System.out.println("The number is not zero");
     }
 
     }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Stick{
+class Stick_2{
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("Length of the stick in cm");
