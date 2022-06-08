@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class IntSmallest{
+class IntSmallest_11{
 public static void main(String args[]){
     System.out.println("Enter the integer number");
 Scanner sc = new Scanner(System.in);
