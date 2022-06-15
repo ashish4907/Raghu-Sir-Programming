@@ -7,10 +7,10 @@ class Special_Method_24 {
 
         boolean isSpecial = isSpecial(num);
         if(isSpecial){
-            System.out.println("True");
+            System.out.println(true);
         }
         else{
-            System.out.println("False");
+            System.out.println(false);
         }
    }
 
